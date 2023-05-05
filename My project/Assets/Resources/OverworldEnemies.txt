@@ -1,0 +1,56 @@
+{
+    "enemies": [
+        {
+            "movementSpeed": 1.0,
+            "playerDetectionRadius": 1.0,
+            "restrictedRadius": 3.0,
+            "ShouldSpawn": 1,
+            "spawnpointX": 0.0,
+            "spawnpointY": 0.07,
+            "spawnpointZ": 1.994,
+            "restrictedPointX": 0.0,
+            "restrictedPointY": 0.07,
+            "restrictedPointZ": 1.994,
+            "posInList": 0 
+        },
+        {
+            "movementSpeed": 0,
+            "playerDetectionRadius": 0.01,
+            "restrictedRadius": 0.01,
+            "ShouldSpawn": 1,
+            "spawnpointX": -3.762,
+            "spawnpointY": 0.419,
+            "spawnpointZ": -0.279,
+            "restrictedPointX": -3.762,
+            "restrictedPointY": 0.419,
+            "restrictedPointZ": -0.279,
+            "posInList": 1  
+        },
+        {
+            "movementSpeed": 1.0,
+            "playerDetectionRadius": 1.0,
+            "restrictedRadius": 3.0,
+            "ShouldSpawn": 1,
+            "spawnpointX": 1.0,
+            "spawnpointY": 0.07,
+            "spawnpointZ": 2.994,
+            "restrictedPointX": 1.0,
+            "restrictedPointY": 0.07,
+            "restrictedPointZ": 2.994,
+            "posInList": 2  
+        },
+        {
+            "movementSpeed": 1.0,
+            "playerDetectionRadius": 1.0,
+            "restrictedRadius": 3.0,
+            "ShouldSpawn": 1,
+            "spawnpointX": -1.00,
+            "spawnpointY": 0.07,
+            "spawnpointZ": 2.994,
+            "restrictedPointX": -1.00,
+            "restrictedPointY": 0.07,
+            "restrictedPointZ": 2.994,
+            "posInList": 3  
+        }
+    ]
+}

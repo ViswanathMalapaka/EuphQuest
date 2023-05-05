@@ -1,0 +1,30 @@
+{
+    "enemies": [
+        {
+            "movementSpeed": 0.01,
+            "playerDetectionRadius": 0.01,
+            "restrictedRadius": 0.001,
+            "ShouldSpawn": 1,
+            "spawnpointX": -3.709152,
+            "spawnpointY": 0.165,
+            "spawnpointZ": 3.660712,
+            "restrictedPointX": -3.709152,
+            "restrictedPointY": 0.165,
+            "restrictedPointZ": 3.660712,
+            "posInList": 0 
+        },
+        {
+            "movementSpeed": 0.01,
+            "playerDetectionRadius": 0.01,
+            "restrictedRadius": 0.001,
+            "ShouldSpawn": 1,
+            "spawnpointX": 4.157899,
+            "spawnpointY": 0.165,
+            "spawnpointZ": 3.640121,
+            "restrictedPointX": 4.157899,
+            "restrictedPointY": 0.165,
+            "restrictedPointZ": 3.640121,
+            "posInList": 1 
+        }
+    ]
+}
